@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* section
+{
+    position: relative;
+    height: 100vh;
+    background: #1c2431;
+} */
+
+/* .box
+{
+    position: relative;
+    background-color: salmon;
+    width: 150px;
+    height: 150px;
+} */
+
+/* using css position */
+/* .box
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: salmon;
+    width: 150px;
+    height: 150px;
+} */
+
+/* using css flex  */
+/* section
+{
+    position: relative;
+    height: 100vh;
+    background: #1c2431;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* using css grid */
+ /* section
+{
+    position: relative;
+    height: 100vh;
+    background: #1c2431;
+    display: grid;
+}
+.box
+{
+    position: relative;
+    background-color: salmon;
+    width: 150px;
+    height: 150px;
+    align-self: center;
+    justify-self: center;
+} */
+
+/* using css grid */
+ /* section
+{
+    position: relative;
+    height: 100vh;
+    background: #1c2431;
+    display: grid;
+}
+.box
+{
+    position: relative;
+    background-color: salmon;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+} */
+
+
+/* using css grid */
+ section
+{
+    position: relative;
+    height: 100vh;
+    background: #1c2431;
+    display: grid;
+    place-items: center;
+}
+.box
+{
+    position: relative;
+    background-color: salmon;
+    width: 150px;
+    height: 150px;
+} 
+
+
